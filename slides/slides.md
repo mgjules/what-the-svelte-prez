@@ -200,3 +200,11 @@ https://github.com/sveltejs/svelte
 https://discordapp.com/invite/yy75DKs
 
 https://twitter.com/sveltejs
+
+
+
+## Needz slides?
+
+Slides @ https://bit.ly/30FOv4w
+
+<img src="/img/slides.png" width="400px"/>
